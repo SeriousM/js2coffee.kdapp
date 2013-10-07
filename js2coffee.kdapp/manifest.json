@@ -1,0 +1,41 @@
+{
+  "devMode": true,
+  "experimental": false,
+  "multiple": false,
+  "background": false,
+  "hiddenHandle": false,
+  "forceUpdate": false,
+  "openWith": "lastActive",
+  "behavior": "application",
+  "version": "0.1.0",
+  "title": "js2coffee",
+  "name": "js2coffee",
+  "identifier": "com.koding.apps.js2coffee",
+  "path": "~/Applications/js2coffee.kdapp",
+  "homepage": "seriousm.kd.io/js2coffee",
+  "author": "Bernhard Millauer",
+  "authorNick": "SeriousM",
+  "repository": "https://github.com/SeriousM/js2coffee.kdapp",
+  "description": "js2coffee",
+  "category": "web-app",
+  "source": {
+    "blocks": {
+      "app": {
+        "files": [
+          "./index.js"
+        ]
+      }
+    },
+    "stylesheets": []
+  },
+  "options": {
+    "type": "tab"
+  },
+  "icns": {
+    "160": "./resources/icon.160.png",
+    "256": "./resources/icon.256.png"
+  },
+  "screenshots": [],
+  "menu": [],
+  "fileTypes": []
+}
